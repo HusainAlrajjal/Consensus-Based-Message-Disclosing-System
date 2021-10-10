@@ -1,0 +1,3 @@
+1- Install Python
+2- Run Main.py
+3- the generated keys will be saved in keys.txt file. 
